@@ -11,5 +11,5 @@ Kurangnya dari program ini yaitu :
 ## Future features
 Hal yang mungkin akan dilakukan dalam waktu kedepan yaitu :
 - [ ] Membuat notif flashdata jika ada data yang di create, update, atau di delete
-
+- [ ] Membuat detail dari data
 - [ ] Membuat validasi form sebelum menginput data
