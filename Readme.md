@@ -6,6 +6,7 @@ Dalam pembuatan program CRUD sederhana ini, saya menggunakan teknologi-teknologi
 
 Kurangnya dari program ini yaitu :
 1. Belum ada flashdata.
+2. Belum ada validasi form. ✅
 
 ## Future features
 Hal yang mungkin akan dilakukan dalam waktu kedepan yaitu :
